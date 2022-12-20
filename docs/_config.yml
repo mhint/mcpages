@@ -1,3 +1,6 @@
 title: Adenark's Server
 description: 
+baseurl: ""
+url: "docs.mc.adenark.com"
+github_username: mhint
 theme: jekyll-theme-cayman
